@@ -9,6 +9,11 @@
 ## Aviso Legal
 **ESSE PROJETO FOI FEITO 100 % EDUCATIVO O CRIADO DO PROJETO N TEM RESPOSABILIDADE SE O PROJETO FOR USADO DE MAL FORMAL OU PARA AREA CRIMINOSA**
 
+## Objetivo
+**ESSE PROJETO FOI FEITO PRA CRIAR UM MALWERE, ELE E UM MALWERE PRE PRONTO PARA VC PEGAR O ESQUELETO E NA PASTA MALWERES VC FAZER ALGUNS SEUS MALWERES E NO BOT SO CHAMAR ELES, ELE NO INCIO CHAMA UM WEBHOOK PARA SEU SERVER FALADO AS INFOMAO DAS VITIMA ETC**
+
+O projeto serve como um esqueleto para criação de malwares. Ele coleta informações básicas da vítima (nome de usuário, sistema operacional, IP) e envia para um webhook do Discord. A pasta `malweres` permite adicionar malwares personalizados, que podem ser chamados no método `malweres()` da classe `Ratus`.
+
 ## Arquitetura
 
 O projeto RATUS DARK é organizado de forma modular para facilitar a extensão e personalização, especialmente para fins educacionais de desenvolvimento de malwares. A arquitetura segue um padrão de separação de responsabilidades, onde cada módulo tem uma função específica. Abaixo, uma descrição detalhada da estrutura e do fluxo de execução.
@@ -78,10 +83,6 @@ Ratus Dark/
 
 Essa arquitetura é modular e extensível para fins educacionais.
 
-## Objetivo
-**ESSE PROJETO FOI FEITO PRA CRIAR UM MALWERE, ELE E UM MALWERE PRE PRONTO PARA VC PEGAR O ESQUELETO E NA PASTA MALWERES VC FAZER ALGUNS SEUS MALWERES E NO BOT SO CHAMAR ELES, ELE NO INCIO CHAMA UM WEBHOOK PARA SEU SERVER FALADO AS INFOMAO DAS VITIMA ETC**
-
-O projeto serve como um esqueleto para criação de malwares. Ele coleta informações básicas da vítima (nome de usuário, sistema operacional, IP) e envia para um webhook do Discord. A pasta `malweres` permite adicionar malwares personalizados, que podem ser chamados no método `malweres()` da classe `Ratus`.
 
 ## Requisitos
 
