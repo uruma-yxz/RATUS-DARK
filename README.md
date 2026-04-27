@@ -1,4 +1,4 @@
-# RATUS DARK
+# RATUS DARK | SKELETON FOR MALWARE 💀
 
 <p align="center">
 <img width="300" height="250" alt="imagem" src="https://github.com/user-attachments/assets/de3395f0-fa09-4716-92fe-1b83aac2f556" />
